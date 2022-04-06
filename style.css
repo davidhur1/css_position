@@ -1,0 +1,51 @@
+.cuadrado{
+
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    border: solid 2px black;
+    position: relative;
+    margin: 100px;
+
+}
+
+.pelota{
+
+    width: 30px;
+    height: 30px;
+    background-color: yellowgreen;
+    border: solid 2px black;
+    border-radius: 100%;
+    position: absolute;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.a{
+
+    top: -15px;
+    left: -15px;
+
+}
+
+.b{
+
+    top: -15px;
+    left: 285px;
+
+}
+
+.c{
+
+    top: 285px;
+    left: -15px;
+
+}
+
+.d{
+
+    top: 285px;
+    left: 285px;
+
+}
